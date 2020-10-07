@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=sphere
+comment0.target=void\ transformSphere(Sphere)
+comment0.text=\n\ a\ Sphere\ object\ is\ changed\ into\ Sphere\ of\ the\ same\ mass\ made\ of\ gold\n\ \n\ @param\ \ sphere\ \ \ a\ Sphere\ object\ to\ be\ transformed\n
+numComments=1
